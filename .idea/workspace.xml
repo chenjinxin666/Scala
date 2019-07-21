@@ -2,60 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="338b4935-7d59-43a2-998f-b396858a10e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Closure.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Equipment.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/EquipmentUseDry.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/EquipmentUseDry2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Inject.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Resource.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Underscore.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/day04/Gril.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/day04/Gril.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/day04/SortTest(1).java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/day04/SortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day01/CallByNameAndCallByValue(1).scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day01/CallByNameAndCallByValue(1).scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day01/ClosureDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day01/ClosureDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day01/ForDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day01/ForDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day01/IFDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day01/IFDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day01/MethodDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day01/MethodDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day01/WhileDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day01/WhileDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day02/ArrayDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day02/ArrayDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day02/ListDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day02/ListDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day02/MapDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day02/MapDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day02/SetDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day02/SetDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day02/TupleDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day02/TupleDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day03/Animal.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/Animal.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day03/Boy.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/Boy.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day03/DateUtils.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/DateUtils.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day03/MyGril.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/MyGril.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day03/Person.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/Person.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day03/StaticTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/StaticTest.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day03/Teacher.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/Teacher.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day03/TestTeacher.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/TestTeacher.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day03/TraitDemo01.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/TraitDemo01.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day03/TraitDemo02.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/TraitDemo02.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day04/CurryingDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/CurryingDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day04/Element.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/Element.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day04/GenericClass01.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/GenericClass01.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day04/GenericFunc.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/GenericFunc.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day04/Gril.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/Gril.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day04/ImplicitDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/ImplicitDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day04/ImplicitValue.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/ImplicitValue.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day04/MyPredef.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/MyPredef.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day04/PartialFuncDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/PartialFuncDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day04/Person.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/Person.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day04/casedemo/CaseDemo01.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/casedemo/CaseDemo01.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day04/casedemo/CaseDemo02.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/casedemo/CaseDemo02.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day04/casedemo/CaseDemo03.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/casedemo/CaseDemo03.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day04/lower/LowerBound.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/lower/LowerBound.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day04/upper/Person.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/upper/Person.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day05/ImplicitDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day05/ImplicitDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day05/MyGrilPair.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day05/MyGrilPair.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day05/MyPredef.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day05/MyPredef.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day05/ViewBound.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day05/ViewBound.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/day05/covariant/CovariantDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day05/covariant/CovariantDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/scala习题精选.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/scala习题精选.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/scala入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/scala入门.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/scala面向对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/scala面向对象.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -115,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Resource.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+            <state relative-caret-position="165">
+              <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -231,7 +178,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -319,12 +266,12 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.17292225" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.17292225" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
@@ -332,7 +279,7 @@
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.18723404" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.37730497" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -556,8 +503,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Resource.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        <state relative-caret-position="165">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
         </state>
       </provider>
     </entry>
