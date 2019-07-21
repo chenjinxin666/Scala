@@ -1,4 +1,4 @@
-package main.scala.day03
+package scala.day03
 
 class MyGril {
   private var name = "苍老师"

@@ -1,6 +1,5 @@
-package main.scala.day02
+package scala.day02
 
-import main.scala.day03.Teacher
 
 /**
   * scala中元祖使用括号表示获取元祖中的值使用下划线标示，角标从1开始

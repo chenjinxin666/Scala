@@ -1,4 +1,4 @@
-package main.scala.day04
+package scala.day04
 
 /**
   * 样例类 Case Class

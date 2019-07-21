@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="338b4935-7d59-43a2-998f-b396858a10e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Closure.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Equipment.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/EquipmentUseDry.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/EquipmentUseDry2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Inject.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Resource.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Underscore.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/day04/Gril.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/day04/Gril.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/day04/SortTest(1).java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/day04/SortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day01/CallByNameAndCallByValue(1).scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day01/CallByNameAndCallByValue(1).scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day01/ClosureDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day01/ClosureDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day01/ForDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day01/ForDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day01/IFDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day01/IFDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day01/MethodDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day01/MethodDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day01/WhileDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day01/WhileDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day02/ArrayDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day02/ArrayDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day02/ListDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day02/ListDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day02/MapDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day02/MapDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day02/SetDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day02/SetDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day02/TupleDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day02/TupleDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day03/Animal.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/Animal.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day03/Boy.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/Boy.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day03/DateUtils.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/DateUtils.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day03/MyGril.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/MyGril.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day03/Person.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/Person.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day03/StaticTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/StaticTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day03/Teacher.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/Teacher.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day03/TestTeacher.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/TestTeacher.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day03/TraitDemo01.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/TraitDemo01.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day03/TraitDemo02.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day03/TraitDemo02.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day04/CurryingDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/CurryingDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day04/Element.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/Element.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day04/GenericClass01.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/GenericClass01.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day04/GenericFunc.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/GenericFunc.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day04/Gril.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/Gril.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day04/ImplicitDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/ImplicitDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day04/ImplicitValue.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/ImplicitValue.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day04/MyPredef.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/MyPredef.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day04/PartialFuncDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/PartialFuncDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day04/Person.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/Person.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day04/casedemo/CaseDemo01.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/casedemo/CaseDemo01.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day04/casedemo/CaseDemo02.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/casedemo/CaseDemo02.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day04/casedemo/CaseDemo03.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/casedemo/CaseDemo03.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day04/lower/LowerBound.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/lower/LowerBound.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day04/upper/Person.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day04/upper/Person.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day05/ImplicitDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day05/ImplicitDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day05/MyGrilPair.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day05/MyGrilPair.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day05/MyPredef.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day05/MyPredef.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day05/ViewBound.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day05/ViewBound.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/day05/covariant/CovariantDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/day05/covariant/CovariantDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/scala习题精选.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/scala习题精选.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/scala入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/scala入门.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/scala面向对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/scala面向对象.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1077709234">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="md" value="11" />
+          <entry key="scala" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="Markdown" value="11" />
+          <entry key="Scala" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="21" />
+          <entry key="scala" value="1191" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="21" />
+          <entry key="Scala" value="1191" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Closure.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Resource.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/scala/day01/IFDemo.scala" />
+        <option value="$PROJECT_DIR$/src/java/day04/Gril.java" />
+        <option value="$PROJECT_DIR$/src/scala/scala面向对象.md" />
+        <option value="$PROJECT_DIR$/src/scala/scala习题精选.md" />
+        <option value="$PROJECT_DIR$/src/scala/scala入门.md" />
+        <option value="$PROJECT_DIR$/src/day02/SetDemo.scala" />
+        <option value="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Inject3.scala" />
+        <option value="$PROJECT_DIR$/src/day02/TupleDemo.scala" />
+        <option value="$PROJECT_DIR$/src/scala/day02/TupleDemo.scala" />
+        <option value="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Inject4.scala" />
+        <option value="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Equipment.scala" />
+        <option value="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Inject.scala" />
+        <option value="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Underscore.scala" />
+        <option value="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/EquipmentUseDry2.scala" />
+        <option value="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/EquipmentUseDry.scala" />
+        <option value="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Closure.scala" />
+        <option value="$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Resource.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="y" value="26" />
+    <option name="width" value="960" />
+    <option name="height" value="988" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Scala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="day03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FunctionValuesAndClosures" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Slick/slick" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\YEYILING\Desktop\Scala\src\scala" />
+      <recent name="C:\Users\YEYILING\Desktop\Scala\src\scala\day05" />
+      <recent name="C:\Users\YEYILING\Desktop\Scala\src\scala\day04" />
+      <recent name="C:\Users\YEYILING\Desktop\Scala\src\scala\day03" />
+      <recent name="C:\Users\YEYILING\Desktop\Scala\src\scala\day02" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\YEYILING\Desktop\Scala\src\scala\day03" />
+      <recent name="C:\Users\YEYILING\Desktop\Scala\src" />
+      <recent name="C:\Users\YEYILING\Desktop\Scala" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Resource">
+    <configuration name="Closure" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scala实用指南.FunctionValuesAndClosures.Closure" />
+      <module name="Scala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EquipmentUseDry" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scala实用指南.FunctionValuesAndClosures.EquipmentUseDry" />
+      <module name="Scala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inject4" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scala实用指南.FunctionValuesAndClosures.Inject4" />
+      <module name="Scala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Resource" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scala实用指南.FunctionValuesAndClosures.Resource" />
+      <module name="Scala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Underscore" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scala实用指南.FunctionValuesAndClosures.Underscore" />
+      <module name="Scala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Inject4" />
+      <item itemvalue="Application.Underscore" />
+      <item itemvalue="Application.EquipmentUseDry" />
+      <item itemvalue="Application.Closure" />
+      <item itemvalue="Application.Resource" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Resource" />
+        <item itemvalue="Application.Closure" />
+        <item itemvalue="Application.EquipmentUseDry" />
+        <item itemvalue="Application.Inject4" />
+        <item itemvalue="Application.Underscore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.17292225" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info id="JRebel" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.18723404" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="JRebel Console" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32907802" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Maven Projects" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="28">
+            <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day01/IFTest.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day01/CallByName.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day02/LiatTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day02/ArrayTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day02/TupleTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day01/IFDemo.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/day04/Gril.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day01/scala从入门到精通.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day03/Scala面向对象.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day01/笔记.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="280">
+            <caret line="79" column="22" lean-forward="true" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day04/笔记.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-17192">
+            <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day05/笔记.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-17589" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/scala入门.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="472">
+            <caret line="804" column="41" selection-start-line="804" selection-start-column="41" selection-end-line="804" selection-end-column="41" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/scala习题精选.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="598">
+            <caret line="565" lean-forward="true" selection-start-line="565" selection-end-line="565" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/scala面向对象.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="280">
+            <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day02/SetDemo.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day02/TupleDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/day02/TupleDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/day04/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Inject.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Equipment.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/EquipmentUseDry.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="58" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/EquipmentUseDry2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Underscore.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Closure.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala实用指南/FunctionValuesAndClosures/Resource.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Scala</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

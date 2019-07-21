@@ -1,4 +1,4 @@
-package main.scala.day03
+package scala.day03
 
 object TestTeacher {
   def main(args: Array[String]): Unit = {

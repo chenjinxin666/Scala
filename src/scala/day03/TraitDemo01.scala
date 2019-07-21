@@ -1,4 +1,4 @@
-package main.scala.day03
+package scala.day03
 
 /**
   * 在scala中特质是一个特殊的概念，特质的用途非常多，可以作为类似java的interface使用

@@ -1,4 +1,4 @@
-package main.scala.day03
+package scala.day03
 
 /**
   * 再scala中定义类使用class关键字修饰

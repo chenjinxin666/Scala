@@ -1,4 +1,4 @@
-package main.java;
+package java;
 //36个人搬36快转，没人刚好搬一次搬完。男人每人每次搬4块，女人每人每次半3 块。小孩两个人每次搬一块
 public class Demo {
     public static void main(String[] args) {

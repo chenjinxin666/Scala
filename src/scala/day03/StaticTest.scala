@@ -1,4 +1,4 @@
-package main.scala.day03
+package scala.day03
 
 /**
   * 实现一个单例模式

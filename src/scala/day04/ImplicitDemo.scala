@@ -1,4 +1,4 @@
-package main.scala.day04
+package scala.day04
 
 /**
   * 将一种数据类型转换成另外一种数据类型，同时有了另外一种数据类型的方法和属性，可以认为是对类的一种增强

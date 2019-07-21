@@ -1,4 +1,4 @@
-package main.scala.day04
+package scala.day04
 
 object PartialFuncDemo {
   def func1: PartialFunction[String, Int] = {

@@ -1,4 +1,4 @@
-package main.scala.day05
+package scala.day05
 
 object MyPredef {
 //  implicit def gril2OrderedGril(gril: Gril) = new Ordered[Gril]{

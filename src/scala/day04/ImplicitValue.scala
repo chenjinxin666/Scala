@@ -1,4 +1,4 @@
-package main.scala.day04
+package scala.day04
 
 object ImplicitValue {
   implicit val z: Int = 100

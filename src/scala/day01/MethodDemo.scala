@@ -1,4 +1,4 @@
-package main.scala.day01
+package scala.day01
 
 object MethodDemo {
 

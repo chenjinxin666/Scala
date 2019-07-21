@@ -1,4 +1,4 @@
-package main.java.day04;
+package java.day04;
 
 public class Gril implements Comparable<Gril> {
     public String getName() {

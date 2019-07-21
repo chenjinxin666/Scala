@@ -1,4 +1,4 @@
-package main.scala.day03
+package scala.day03
 
 class Person  {
   var name:String =_

@@ -1,4 +1,4 @@
-package main.scala.day01
+package scala.day01
 
 /**
   * IF条件表达式的Demo

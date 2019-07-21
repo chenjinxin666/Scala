@@ -1,4 +1,4 @@
-package main.scala.day04.upper
+package scala.day04.upper
 
 class Person
 

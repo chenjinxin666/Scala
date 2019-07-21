@@ -1,4 +1,4 @@
-package main.scala.day03
+package scala.day03
 
 /**
   * d定义一个抽象类，用于继承

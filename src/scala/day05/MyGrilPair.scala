@@ -1,4 +1,4 @@
-package main.scala.day05
+package scala.day05
 
 /**
   * 定义

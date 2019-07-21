@@ -1,4 +1,4 @@
-package main.scala.day01
+package scala.day01
 
 /**
   * 函数的求值策略

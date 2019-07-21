@@ -1,4 +1,4 @@
-package main.scala.day04.casedemo
+package scala.day04.casedemo
 
 object CaseDemo02 {
   def main(args: Array[String]): Unit = {

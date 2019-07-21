@@ -1,4 +1,4 @@
-package main.scala.day05.covariant
+package scala.day05.covariant
 
 /**
   * 协变：scala中非常有特色的函数，它完美的解决了java中泛型的一些缺陷

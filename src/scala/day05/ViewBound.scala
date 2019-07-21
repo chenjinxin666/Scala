@@ -1,4 +1,4 @@
-package main.scala.day05
+package scala.day05
 
 class ComparInt(x:Int, y:Int) {
   def bigger = if(x>y) x else y

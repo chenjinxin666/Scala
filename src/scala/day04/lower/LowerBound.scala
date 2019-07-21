@@ -1,4 +1,4 @@
-package main.scala.day04.lower
+package scala.day04.lower
 
 /**
   * 泛型的下界

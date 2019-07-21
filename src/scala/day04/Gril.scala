@@ -1,4 +1,4 @@
-package main.scala.day04
+package scala.day04
 
 class Gril(val name:String, var faceValue:Int)  extends Ordered[Gril]{
   override def compare(that: Gril): Int = {

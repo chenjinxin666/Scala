@@ -1,4 +1,4 @@
-package main.scala.day03
+package scala.day03
 
 //1
 trait TraitDemo02 {

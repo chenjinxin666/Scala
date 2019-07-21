@@ -1,4 +1,4 @@
-package main.scala.day04.casedemo
+package scala.day04.casedemo
 
 import scala.util.Random
 
